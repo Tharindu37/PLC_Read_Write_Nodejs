@@ -1,0 +1,1 @@
+Read and write ok in test3.js
